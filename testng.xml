@@ -8,6 +8,6 @@
 			<class name="testcases.LoginTestCases" />
 		</classes>
 	</test> <!--
-	Test --> 
+	Test -->
 </suite> <!--
 Suite -->
